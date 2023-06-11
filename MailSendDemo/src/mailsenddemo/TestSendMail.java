@@ -29,8 +29,8 @@ public class TestSendMail
         props.put("mail.smtp.auth", "true");
         props.put("mail.smtp.starttls.enable", "true");
         
-        String from_email="from_email_id@gmail.com";
-        String from_email_pass="from_password";
+        String from_email="apubanaskar27@gmail.com";
+        String from_email_pass="12345";
         
         //1. create Session object
         Session session=Session.getInstance(props, new Authenticator() {

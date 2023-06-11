@@ -15,7 +15,7 @@ public class MailSendDemo
     {
         try
         {
-            TestSendMail.sendMail("to_email_id@gmail.com");
+            TestSendMail.sendMail("apurbanaskrcse@gmail.com");
         }
         catch(Exception e)
         {
